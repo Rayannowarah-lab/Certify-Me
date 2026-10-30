@@ -1,0 +1,13 @@
+
+[
+  { "name": "Cyber Security", "slug": "cyber-security", "description": "Protect digital systems, networks, and data from attacks.", "icon": "Shield" },
+  { "name": "Computer Science", "slug": "computer-science", "description": "Study of computers and computational systems.", "icon": "Code" },
+  { "name": "Artificial Intelligence", "slug": "artificial-intelligence", "description": "Machine learning, deep learning, and intelligent systems.", "icon": "Cpu" },
+  { "name": "Data Science", "slug": "data-science", "description": "Extract insights from data using scientific methods.", "icon": "Database" },
+  { "name": "Marketing", "slug": "marketing", "description": "Digital marketing, SEO, and consumer behavior.", "icon": "BarChart" },
+  { "name": "Cloud", "slug": "cloud", "description": "Cloud computing platforms, architecture, and services.", "icon": "Cloud" },
+  { "name": "IT Support", "slug": "it", "description": "Information technology basics, troubleshooting, and networking.", "icon": "Laptop" },
+  { "name": "Finance", "slug": "finance", "description": "Master financial concepts, cash flow management, and business funding strategies.", "icon": "Banknote" },
+  { "name": "Graphic Design", "slug": "graphic-design", "description": "Master visual communication, UI/UX, and creative tools like Adobe and Canva.", "icon": "Palette" },
+  { "name": "Game Development", "slug": "game-development", "description": "Learn to build games, VFX, and interactive experiences using Unity and VR.", "icon": "Gamepad2" }
+]

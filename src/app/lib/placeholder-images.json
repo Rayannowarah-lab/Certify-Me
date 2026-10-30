@@ -1,0 +1,29 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "cybersecurity",
+      "description": "Cybersecurity and digital protection concept",
+      "imageUrl": "https://picsum.photos/seed/cyber/800/600",
+      "imageHint": "cyber security"
+    },
+    {
+      "id": "data-science",
+      "description": "Data analytics and visualization",
+      "imageUrl": "https://picsum.photos/seed/data/800/600",
+      "imageHint": "data science"
+    },
+    {
+      "id": "ai",
+      "description": "Artificial Intelligence and machine learning",
+      "imageUrl": "https://picsum.photos/seed/ai/800/600",
+      "imageHint": "artificial intelligence"
+    },
+    {
+      "id": "marketing",
+      "description": "Digital marketing and social media",
+      "imageUrl": "https://picsum.photos/seed/marketing/800/600",
+      "imageHint": "digital marketing"
+    }
+  ]
+}
